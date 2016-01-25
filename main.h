@@ -11,3 +11,6 @@
 
 
 #endif /* MAIN_H_ */
+
+void main(args[]);
+
