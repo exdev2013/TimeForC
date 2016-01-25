@@ -7,10 +7,4 @@
 
 void main(args[]){
 	//Hello World
-	/* wtf */
-
-	//Hello
-
-	/* wtf */
-}
 }
